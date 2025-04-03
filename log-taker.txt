@@ -2732,3 +2732,15 @@
 4/3/2025 | 12:52:50 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:52:53 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:52:53 AM | ERROR | Failed to retrieve nonce for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/3/2025 | 4:13:43 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:13:43 AM | INFO | Start process for wallet 0xbe895c40F163117113659154051384DfFF501f11 
+4/3/2025 | 4:13:44 AM | INFO | Trying To Login for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/3/2025 | 4:13:45 AM | INFO | Login successful... 
+4/3/2025 | 4:13:45 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:13:46 AM | INFO | User ID: 28316008 | Twitter: @0xmutia | Total Points: 984000 
+4/3/2025 | 4:13:46 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:13:47 AM | INFO | Last mining time: 4/1/2025, 12:21:33 PM
+4/3/2025 | 4:13:47 AM | INFO | Trying to start Mining for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/3/2025 | 4:13:47 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:13:47 AM | INFO | Trying to activate mining on-chain for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/3/2025 | 4:13:59 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf21e6e2cfc57e2826075af87f4511ec0d055558ca167faf8c5110a5758dc09fa 
