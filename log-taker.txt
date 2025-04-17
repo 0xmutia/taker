@@ -3554,3 +3554,16 @@
 4/17/2025 | 12:20:49 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:20:52 PM | INFO | Last mining time: 4/16/2025, 12:21:30 PM
 4/17/2025 | 12:20:52 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:21:30 PM
+4/17/2025 | 4:13:50 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:13:50 PM | INFO | Start process for wallet 0xbe895c40F163117113659154051384DfFF501f11 
+4/17/2025 | 4:13:51 PM | INFO | Trying To Login for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/17/2025 | 4:13:52 PM | INFO | Login successful... 
+4/17/2025 | 4:13:52 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:13:53 PM | INFO | User ID: 28316008 | Twitter: @0xmutia | Total Points: 1296000 
+4/17/2025 | 4:13:53 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:14:08 PM | INFO | Last mining time: 4/15/2025, 8:16:00 AM
+4/17/2025 | 4:14:08 PM | INFO | Trying to start Mining for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/17/2025 | 4:14:29 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 4:14:29 PM | INFO | Trying to activate mining on-chain for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/17/2025 | 4:14:36 PM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+4/17/2025 | 4:14:36 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
