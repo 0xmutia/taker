@@ -3949,3 +3949,15 @@
 4/24/2025 | 8:17:27 AM | INFO | Trying to check user miner status... 
 4/24/2025 | 8:18:27 AM | INFO | Last mining time: 4/23/2025, 12:21:30 PM
 4/24/2025 | 8:18:27 AM | WARN | Mining already started, next mining time is: 4/24/2025, 12:21:30 PM
+4/24/2025 | 12:21:43 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/24/2025 | 12:21:43 PM | INFO | Start process for wallet 0xbe895c40F163117113659154051384DfFF501f11 
+4/24/2025 | 12:21:44 PM | INFO | Trying To Login for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/24/2025 | 12:21:45 PM | INFO | Login successful... 
+4/24/2025 | 12:21:45 PM | INFO | Trying to check user info... 
+4/24/2025 | 12:22:46 PM | INFO | User ID: 28316008 | Twitter: @0xmutia | Total Points: 1440000 
+4/24/2025 | 12:22:46 PM | INFO | Trying to check user miner status... 
+4/24/2025 | 12:22:47 PM | INFO | Last mining time: 4/23/2025, 12:21:30 PM
+4/24/2025 | 12:22:47 PM | INFO | Trying to start Mining for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/24/2025 | 12:22:47 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/24/2025 | 12:22:47 PM | INFO | Trying to activate mining on-chain for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+4/24/2025 | 12:22:58 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x91ebe50b0a6101b503b9bd7a439da3f65a41038a295e7372fc8aec1f855b7ff2 
