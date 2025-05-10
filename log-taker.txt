@@ -4840,3 +4840,12 @@
 5/10/2025 | 12:53:31 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/10/2025 | 12:53:31 AM | INFO | Trying to activate mining on-chain for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
 5/10/2025 | 12:53:37 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x6cb3ec28a87f6cf70fe7d18b83f9dd0d64f7453d3ce4c1f4cd90c07e1fa4e880 
+5/10/2025 | 4:12:55 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/10/2025 | 4:12:55 AM | INFO | Start process for wallet 0xbe895c40F163117113659154051384DfFF501f11 
+5/10/2025 | 4:12:56 AM | INFO | Trying To Login for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+5/10/2025 | 4:12:57 AM | INFO | Login successful... 
+5/10/2025 | 4:12:57 AM | INFO | Trying to check user info... 
+5/10/2025 | 4:12:57 AM | INFO | User ID: 28316008 | Twitter: @0xmutia | Total Points: 1800000 
+5/10/2025 | 4:12:57 AM | INFO | Trying to check user miner status... 
+5/10/2025 | 4:12:58 AM | INFO | Last mining time: 5/10/2025, 12:53:36 AM
+5/10/2025 | 4:12:58 AM | WARN | Mining already started, next mining time is: 5/11/2025, 12:53:36 AM
