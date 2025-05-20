@@ -5425,3 +5425,16 @@
 5/20/2025 | 4:15:16 AM | INFO | Trying to check user miner status... 
 5/20/2025 | 4:15:20 AM | INFO | Last mining time: 5/19/2025, 4:20:00 AM
 5/20/2025 | 4:15:20 AM | WARN | Mining already started, next mining time is: 5/20/2025, 4:20:00 AM
+5/20/2025 | 8:16:45 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:16:45 AM | INFO | Start process for wallet 0xbe895c40F163117113659154051384DfFF501f11 
+5/20/2025 | 8:16:46 AM | INFO | Trying To Login for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+5/20/2025 | 8:16:47 AM | INFO | Login successful... 
+5/20/2025 | 8:16:47 AM | INFO | Trying to check user info... 
+5/20/2025 | 8:16:47 AM | INFO | User ID: 28316008 | Twitter: @0xmutia | Total Points: 1992000 
+5/20/2025 | 8:16:47 AM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:16:50 AM | INFO | Last mining time: 5/19/2025, 4:20:00 AM
+5/20/2025 | 8:16:50 AM | INFO | Trying to start Mining for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+5/20/2025 | 8:16:51 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 8:16:51 AM | INFO | Trying to activate mining on-chain for wallet: 0xbe895c40F163117113659154051384DfFF501f11 
+5/20/2025 | 8:16:57 AM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86e8204655a830f4240832dc6c082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a042a94b6fa7227c594575a279b0223d8d67c886b7af7e26f588d2a82217aa9f44a04e741068036d4d2e4e3dd44fef779612622cc0f3bc24c37555f5fcc4cc3adf8a","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/20/2025 | 8:16:57 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
